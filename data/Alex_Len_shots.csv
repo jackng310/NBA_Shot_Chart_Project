@@ -1,0 +1,625 @@
+,GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+1433,Shot Chart Detail,21500014,106,203458,Alex Len,1610612756,Phoenix Suns,1,3,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151028,PHX,DAL
+1434,Shot Chart Detail,21500014,127,203458,Alex Len,1610612756,Phoenix Suns,1,2,29,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20151028,PHX,DAL
+1435,Shot Chart Detail,21500014,270,203458,Alex Len,1610612756,Phoenix Suns,2,3,8,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,65,1,0,20151028,PHX,DAL
+1436,Shot Chart Detail,21500032,114,203458,Alex Len,1610612756,Phoenix Suns,1,1,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,18,1,1,20151030,PHX,POR
+1437,Shot Chart Detail,21500032,391,203458,Alex Len,1610612756,Phoenix Suns,3,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20151030,PHX,POR
+1438,Shot Chart Detail,21500032,399,203458,Alex Len,1610612756,Phoenix Suns,3,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-151,146,1,0,20151030,PHX,POR
+1439,Shot Chart Detail,21500032,437,203458,Alex Len,1610612756,Phoenix Suns,4,11,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20151030,PHX,POR
+1440,Shot Chart Detail,21500032,454,203458,Alex Len,1610612756,Phoenix Suns,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,145,124,1,0,20151030,PHX,POR
+1441,Shot Chart Detail,21500032,584,203458,Alex Len,1610612756,Phoenix Suns,4,0,54,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20151030,PHX,POR
+1442,Shot Chart Detail,21500037,99,203458,Alex Len,1610612756,Phoenix Suns,1,0,58,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20151031,POR,PHX
+1443,Shot Chart Detail,21500037,118,203458,Alex Len,1610612756,Phoenix Suns,2,11,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,21,1,0,20151031,POR,PHX
+1444,Shot Chart Detail,21500037,137,203458,Alex Len,1610612756,Phoenix Suns,2,9,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-1,1,0,20151031,POR,PHX
+1445,Shot Chart Detail,21500037,152,203458,Alex Len,1610612756,Phoenix Suns,2,7,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,0,20151031,POR,PHX
+1446,Shot Chart Detail,21500037,160,203458,Alex Len,1610612756,Phoenix Suns,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-14,175,1,1,20151031,POR,PHX
+1447,Shot Chart Detail,21500037,371,203458,Alex Len,1610612756,Phoenix Suns,3,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,2,1,0,20151031,POR,PHX
+1448,Shot Chart Detail,21500037,372,203458,Alex Len,1610612756,Phoenix Suns,3,1,1,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,0,20151031,POR,PHX
+1449,Shot Chart Detail,21500037,375,203458,Alex Len,1610612756,Phoenix Suns,3,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,0,20151031,POR,PHX
+1450,Shot Chart Detail,21500052,99,203458,Alex Len,1610612756,Phoenix Suns,1,1,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,46,1,0,20151102,LAC,PHX
+1451,Shot Chart Detail,21500052,134,203458,Alex Len,1610612756,Phoenix Suns,2,10,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,41,1,0,20151102,LAC,PHX
+1452,Shot Chart Detail,21500052,155,203458,Alex Len,1610612756,Phoenix Suns,2,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-32,183,1,0,20151102,LAC,PHX
+1453,Shot Chart Detail,21500067,88,203458,Alex Len,1610612756,Phoenix Suns,1,2,49,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,10,1,0,20151104,PHX,SAC
+1454,Shot Chart Detail,21500067,105,203458,Alex Len,1610612756,Phoenix Suns,1,1,16,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151104,PHX,SAC
+1455,Shot Chart Detail,21500067,365,203458,Alex Len,1610612756,Phoenix Suns,3,1,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,27,80,1,0,20151104,PHX,SAC
+1456,Shot Chart Detail,21500067,398,203458,Alex Len,1610612756,Phoenix Suns,4,10,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151104,PHX,SAC
+1457,Shot Chart Detail,21500067,403,203458,Alex Len,1610612756,Phoenix Suns,4,9,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151104,PHX,SAC
+1458,Shot Chart Detail,21500067,415,203458,Alex Len,1610612756,Phoenix Suns,4,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151104,PHX,SAC
+1459,Shot Chart Detail,21500067,431,203458,Alex Len,1610612756,Phoenix Suns,4,6,41,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,22,65,1,0,20151104,PHX,SAC
+1460,Shot Chart Detail,21500067,434,203458,Alex Len,1610612756,Phoenix Suns,4,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,94,156,1,1,20151104,PHX,SAC
+1461,Shot Chart Detail,21500067,436,203458,Alex Len,1610612756,Phoenix Suns,4,5,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-30,80,1,1,20151104,PHX,SAC
+1462,Shot Chart Detail,21500067,442,203458,Alex Len,1610612756,Phoenix Suns,4,4,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,1,20151104,PHX,SAC
+1463,Shot Chart Detail,21500067,449,203458,Alex Len,1610612756,Phoenix Suns,4,4,27,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-79,110,1,0,20151104,PHX,SAC
+1464,Shot Chart Detail,21500067,496,203458,Alex Len,1610612756,Phoenix Suns,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-63,36,1,0,20151104,PHX,SAC
+1465,Shot Chart Detail,21500082,161,203458,Alex Len,1610612756,Phoenix Suns,2,8,12,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,0,20151106,PHX,DET
+1466,Shot Chart Detail,21500082,175,203458,Alex Len,1610612756,Phoenix Suns,2,7,18,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151106,PHX,DET
+1467,Shot Chart Detail,21500097,148,203458,Alex Len,1610612756,Phoenix Suns,1,0,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151108,OKC,PHX
+1468,Shot Chart Detail,21500097,177,203458,Alex Len,1610612756,Phoenix Suns,2,10,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,2,1,1,20151108,OKC,PHX
+1469,Shot Chart Detail,21500097,418,203458,Alex Len,1610612756,Phoenix Suns,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,127,134,1,0,20151108,OKC,PHX
+1470,Shot Chart Detail,21500126,114,203458,Alex Len,1610612756,Phoenix Suns,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,25,160,1,0,20151112,PHX,LAC
+1471,Shot Chart Detail,21500126,140,203458,Alex Len,1610612756,Phoenix Suns,2,10,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,61,1,0,20151112,PHX,LAC
+1472,Shot Chart Detail,21500126,427,203458,Alex Len,1610612756,Phoenix Suns,4,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-74,149,1,0,20151112,PHX,LAC
+1473,Shot Chart Detail,21500126,449,203458,Alex Len,1610612756,Phoenix Suns,4,7,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151112,PHX,LAC
+1474,Shot Chart Detail,21500143,362,203458,Alex Len,1610612756,Phoenix Suns,3,4,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,0,20151114,PHX,DEN
+1475,Shot Chart Detail,21500143,395,203458,Alex Len,1610612756,Phoenix Suns,3,1,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,0,20151114,PHX,DEN
+1476,Shot Chart Detail,21500143,454,203458,Alex Len,1610612756,Phoenix Suns,4,6,33,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20151114,PHX,DEN
+1477,Shot Chart Detail,21500157,100,203458,Alex Len,1610612756,Phoenix Suns,1,3,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151116,PHX,LAL
+1478,Shot Chart Detail,21500157,103,203458,Alex Len,1610612756,Phoenix Suns,1,2,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151116,PHX,LAL
+1479,Shot Chart Detail,21500157,197,203458,Alex Len,1610612756,Phoenix Suns,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-27,87,1,0,20151116,PHX,LAL
+1480,Shot Chart Detail,21500157,413,203458,Alex Len,1610612756,Phoenix Suns,4,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,9,164,1,0,20151116,PHX,LAL
+1481,Shot Chart Detail,21500157,436,203458,Alex Len,1610612756,Phoenix Suns,4,7,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151116,PHX,LAL
+1482,Shot Chart Detail,21500157,441,203458,Alex Len,1610612756,Phoenix Suns,4,6,43,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,16,1,1,20151116,PHX,LAL
+1483,Shot Chart Detail,21500157,471,203458,Alex Len,1610612756,Phoenix Suns,4,4,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,0,20151116,PHX,LAL
+1484,Shot Chart Detail,21500174,92,203458,Alex Len,1610612756,Phoenix Suns,1,2,1,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151118,PHX,CHI
+1485,Shot Chart Detail,21500174,118,203458,Alex Len,1610612756,Phoenix Suns,2,10,58,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20151118,PHX,CHI
+1486,Shot Chart Detail,21500174,435,203458,Alex Len,1610612756,Phoenix Suns,4,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20151118,PHX,CHI
+1487,Shot Chart Detail,21500185,364,203458,Alex Len,1610612756,Phoenix Suns,3,3,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151120,DEN,PHX
+1488,Shot Chart Detail,21500185,370,203458,Alex Len,1610612756,Phoenix Suns,3,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-34,193,1,1,20151120,DEN,PHX
+1489,Shot Chart Detail,21500185,389,203458,Alex Len,1610612756,Phoenix Suns,3,0,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-35,154,1,1,20151120,DEN,PHX
+1490,Shot Chart Detail,21500185,419,203458,Alex Len,1610612756,Phoenix Suns,4,10,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,3,1,1,20151120,DEN,PHX
+1491,Shot Chart Detail,21500207,94,203458,Alex Len,1610612756,Phoenix Suns,1,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-106,139,1,0,20151123,SAS,PHX
+1492,Shot Chart Detail,21500207,125,203458,Alex Len,1610612756,Phoenix Suns,2,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,-11,1,0,20151123,SAS,PHX
+1493,Shot Chart Detail,21500225,54,203458,Alex Len,1610612756,Phoenix Suns,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,43,1,0,20151125,PHX,NOP
+1494,Shot Chart Detail,21500225,56,203458,Alex Len,1610612756,Phoenix Suns,1,6,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20151125,PHX,NOP
+1495,Shot Chart Detail,21500236,44,203458,Alex Len,1610612756,Phoenix Suns,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-21,1,0,20151127,PHX,GSW
+1496,Shot Chart Detail,21500236,572,203458,Alex Len,1610612756,Phoenix Suns,4,0,17,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,23,1,0,20151127,PHX,GSW
+1497,Shot Chart Detail,21500250,29,203458,Alex Len,1610612756,Phoenix Suns,1,9,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,16,1,1,20151129,TOR,PHX
+1498,Shot Chart Detail,21500250,32,203458,Alex Len,1610612756,Phoenix Suns,1,8,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20151129,TOR,PHX
+1499,Shot Chart Detail,21500250,217,203458,Alex Len,1610612756,Phoenix Suns,2,4,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-4,110,1,1,20151129,TOR,PHX
+1500,Shot Chart Detail,21500250,281,203458,Alex Len,1610612756,Phoenix Suns,3,11,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,21,1,1,20151129,TOR,PHX
+1501,Shot Chart Detail,21500250,298,203458,Alex Len,1610612756,Phoenix Suns,3,8,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,133,105,1,0,20151129,TOR,PHX
+1502,Shot Chart Detail,21500250,354,203458,Alex Len,1610612756,Phoenix Suns,3,2,10,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,0,20151129,TOR,PHX
+1503,Shot Chart Detail,21500250,357,203458,Alex Len,1610612756,Phoenix Suns,3,2,2,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,28,1,0,20151129,TOR,PHX
+1504,Shot Chart Detail,21500250,434,203458,Alex Len,1610612756,Phoenix Suns,4,5,56,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-4,1,0,20151129,TOR,PHX
+1505,Shot Chart Detail,21500264,35,203458,Alex Len,1610612756,Phoenix Suns,1,6,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151201,BKN,PHX
+1506,Shot Chart Detail,21500264,174,203458,Alex Len,1610612756,Phoenix Suns,2,5,25,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,46,1,0,20151201,BKN,PHX
+1507,Shot Chart Detail,21500264,182,203458,Alex Len,1610612756,Phoenix Suns,2,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,159,1,1,20151201,BKN,PHX
+1508,Shot Chart Detail,21500264,233,203458,Alex Len,1610612756,Phoenix Suns,3,11,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151201,BKN,PHX
+1509,Shot Chart Detail,21500264,287,203458,Alex Len,1610612756,Phoenix Suns,3,6,0,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,16,1,0,20151201,BKN,PHX
+1510,Shot Chart Detail,21500264,405,203458,Alex Len,1610612756,Phoenix Suns,4,7,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151201,BKN,PHX
+1511,Shot Chart Detail,21500264,473,203458,Alex Len,1610612756,Phoenix Suns,4,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,0,20151201,BKN,PHX
+1512,Shot Chart Detail,21500270,157,203458,Alex Len,1610612756,Phoenix Suns,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,13,1,0,20151202,DET,PHX
+1513,Shot Chart Detail,21500270,164,203458,Alex Len,1610612756,Phoenix Suns,2,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,65,1,0,20151202,DET,PHX
+1514,Shot Chart Detail,21500270,184,203458,Alex Len,1610612756,Phoenix Suns,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,0,1,0,20151202,DET,PHX
+1515,Shot Chart Detail,21500270,195,203458,Alex Len,1610612756,Phoenix Suns,2,7,18,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,16,1,1,20151202,DET,PHX
+1516,Shot Chart Detail,21500270,199,203458,Alex Len,1610612756,Phoenix Suns,2,6,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,0,1,1,20151202,DET,PHX
+1517,Shot Chart Detail,21500270,227,203458,Alex Len,1610612756,Phoenix Suns,2,4,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151202,DET,PHX
+1518,Shot Chart Detail,21500270,295,203458,Alex Len,1610612756,Phoenix Suns,3,11,40,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,0,20151202,DET,PHX
+1519,Shot Chart Detail,21500284,20,203458,Alex Len,1610612756,Phoenix Suns,1,10,40,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,33,1,1,20151204,WAS,PHX
+1520,Shot Chart Detail,21500284,37,203458,Alex Len,1610612756,Phoenix Suns,1,8,53,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,36,1,1,20151204,WAS,PHX
+1521,Shot Chart Detail,21500284,54,203458,Alex Len,1610612756,Phoenix Suns,1,7,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,2,1,0,20151204,WAS,PHX
+1522,Shot Chart Detail,21500284,260,203458,Alex Len,1610612756,Phoenix Suns,3,10,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151204,WAS,PHX
+1523,Shot Chart Detail,21500284,268,203458,Alex Len,1610612756,Phoenix Suns,3,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,0,20151204,WAS,PHX
+1524,Shot Chart Detail,21500299,8,203458,Alex Len,1610612756,Phoenix Suns,1,10,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,0,20151206,MEM,PHX
+1525,Shot Chart Detail,21500299,23,203458,Alex Len,1610612756,Phoenix Suns,1,9,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151206,MEM,PHX
+1526,Shot Chart Detail,21500299,160,203458,Alex Len,1610612756,Phoenix Suns,2,6,31,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,51,1,1,20151206,MEM,PHX
+1527,Shot Chart Detail,21500299,230,203458,Alex Len,1610612756,Phoenix Suns,3,11,31,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151206,MEM,PHX
+1528,Shot Chart Detail,21500299,494,203458,Alex Len,1610612756,Phoenix Suns,4,1,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-6,1,1,20151206,MEM,PHX
+1529,Shot Chart Detail,21500299,513,203458,Alex Len,1610612756,Phoenix Suns,4,0,11,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20151206,MEM,PHX
+1530,Shot Chart Detail,21500309,7,203458,Alex Len,1610612756,Phoenix Suns,1,10,52,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-1,1,0,20151207,CHI,PHX
+1531,Shot Chart Detail,21500309,13,203458,Alex Len,1610612756,Phoenix Suns,1,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,51,169,1,0,20151207,CHI,PHX
+1532,Shot Chart Detail,21500309,25,203458,Alex Len,1610612756,Phoenix Suns,1,9,25,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151207,CHI,PHX
+1533,Shot Chart Detail,21500309,64,203458,Alex Len,1610612756,Phoenix Suns,1,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-1,1,0,20151207,CHI,PHX
+1534,Shot Chart Detail,21500309,216,203458,Alex Len,1610612756,Phoenix Suns,2,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20151207,CHI,PHX
+1535,Shot Chart Detail,21500309,226,203458,Alex Len,1610612756,Phoenix Suns,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-43,164,1,0,20151207,CHI,PHX
+1536,Shot Chart Detail,21500309,233,203458,Alex Len,1610612756,Phoenix Suns,2,3,27,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151207,CHI,PHX
+1537,Shot Chart Detail,21500309,246,203458,Alex Len,1610612756,Phoenix Suns,2,2,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,8,1,0,20151207,CHI,PHX
+1538,Shot Chart Detail,21500309,249,203458,Alex Len,1610612756,Phoenix Suns,2,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,8,1,0,20151207,CHI,PHX
+1539,Shot Chart Detail,21500309,257,203458,Alex Len,1610612756,Phoenix Suns,2,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,36,1,1,20151207,CHI,PHX
+1540,Shot Chart Detail,21500309,298,203458,Alex Len,1610612756,Phoenix Suns,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-14,144,1,0,20151207,CHI,PHX
+1541,Shot Chart Detail,21500309,402,203458,Alex Len,1610612756,Phoenix Suns,4,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,67,1,0,20151207,CHI,PHX
+1542,Shot Chart Detail,21500309,427,203458,Alex Len,1610612756,Phoenix Suns,4,9,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20151207,CHI,PHX
+1543,Shot Chart Detail,21500309,435,203458,Alex Len,1610612756,Phoenix Suns,4,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-1,1,1,20151207,CHI,PHX
+1544,Shot Chart Detail,21500326,43,203458,Alex Len,1610612756,Phoenix Suns,1,7,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151209,PHX,ORL
+1545,Shot Chart Detail,21500326,237,203458,Alex Len,1610612756,Phoenix Suns,2,1,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151209,PHX,ORL
+1546,Shot Chart Detail,21500326,247,203458,Alex Len,1610612756,Phoenix Suns,2,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,-11,1,0,20151209,PHX,ORL
+1547,Shot Chart Detail,21500326,253,203458,Alex Len,1610612756,Phoenix Suns,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,2,1,0,20151209,PHX,ORL
+1548,Shot Chart Detail,21500326,294,203458,Alex Len,1610612756,Phoenix Suns,3,8,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20151209,PHX,ORL
+1549,Shot Chart Detail,21500326,318,203458,Alex Len,1610612756,Phoenix Suns,3,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-11,1,1,20151209,PHX,ORL
+1550,Shot Chart Detail,21500326,339,203458,Alex Len,1610612756,Phoenix Suns,3,3,47,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,0,20151209,PHX,ORL
+1551,Shot Chart Detail,21500326,342,203458,Alex Len,1610612756,Phoenix Suns,3,3,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,47,1,1,20151209,PHX,ORL
+1552,Shot Chart Detail,21500326,388,203458,Alex Len,1610612756,Phoenix Suns,3,0,0,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151209,PHX,ORL
+1553,Shot Chart Detail,21500326,398,203458,Alex Len,1610612756,Phoenix Suns,4,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20151209,PHX,ORL
+1554,Shot Chart Detail,21500343,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-97,75,1,1,20151211,PHX,POR
+1555,Shot Chart Detail,21500343,22,203458,Alex Len,1610612756,Phoenix Suns,1,9,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151211,PHX,POR
+1556,Shot Chart Detail,21500343,35,203458,Alex Len,1610612756,Phoenix Suns,1,7,43,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,0,20151211,PHX,POR
+1557,Shot Chart Detail,21500343,42,203458,Alex Len,1610612756,Phoenix Suns,1,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,193,1,1,20151211,PHX,POR
+1558,Shot Chart Detail,21500343,48,203458,Alex Len,1610612756,Phoenix Suns,1,6,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20151211,PHX,POR
+1559,Shot Chart Detail,21500343,58,203458,Alex Len,1610612756,Phoenix Suns,1,5,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,0,20151211,PHX,POR
+1560,Shot Chart Detail,21500343,268,203458,Alex Len,1610612756,Phoenix Suns,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,76,144,1,1,20151211,PHX,POR
+1561,Shot Chart Detail,21500343,273,203458,Alex Len,1610612756,Phoenix Suns,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,31,1,0,20151211,PHX,POR
+1562,Shot Chart Detail,21500343,277,203458,Alex Len,1610612756,Phoenix Suns,3,9,25,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,0,20151211,PHX,POR
+1563,Shot Chart Detail,21500343,296,203458,Alex Len,1610612756,Phoenix Suns,3,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-1,1,0,20151211,PHX,POR
+1564,Shot Chart Detail,21500353,6,203458,Alex Len,1610612756,Phoenix Suns,1,11,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,8,1,0,20151213,PHX,MIN
+1565,Shot Chart Detail,21500353,71,203458,Alex Len,1610612756,Phoenix Suns,1,5,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151213,PHX,MIN
+1566,Shot Chart Detail,21500353,184,203458,Alex Len,1610612756,Phoenix Suns,2,7,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,160,1,0,20151213,PHX,MIN
+1567,Shot Chart Detail,21500353,219,203458,Alex Len,1610612756,Phoenix Suns,2,6,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151213,PHX,MIN
+1568,Shot Chart Detail,21500353,314,203458,Alex Len,1610612756,Phoenix Suns,3,11,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20151213,PHX,MIN
+1569,Shot Chart Detail,21500353,339,203458,Alex Len,1610612756,Phoenix Suns,3,8,8,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151213,PHX,MIN
+1570,Shot Chart Detail,21500353,345,203458,Alex Len,1610612756,Phoenix Suns,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,-15,1,0,20151213,PHX,MIN
+1571,Shot Chart Detail,21500353,370,203458,Alex Len,1610612756,Phoenix Suns,3,5,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151213,PHX,MIN
+1572,Shot Chart Detail,21500353,454,203458,Alex Len,1610612756,Phoenix Suns,4,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,61,1,0,20151213,PHX,MIN
+1573,Shot Chart Detail,21500353,469,203458,Alex Len,1610612756,Phoenix Suns,4,8,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,131,1,0,20151213,PHX,MIN
+1574,Shot Chart Detail,21500363,34,203458,Alex Len,1610612756,Phoenix Suns,1,7,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,80,1,0,20151214,DAL,PHX
+1575,Shot Chart Detail,21500363,63,203458,Alex Len,1610612756,Phoenix Suns,1,4,16,Missed Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,38,1,0,20151214,DAL,PHX
+1576,Shot Chart Detail,21500363,182,203458,Alex Len,1610612756,Phoenix Suns,2,5,45,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,0,20151214,DAL,PHX
+1577,Shot Chart Detail,21500363,263,203458,Alex Len,1610612756,Phoenix Suns,3,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,7,1,0,20151214,DAL,PHX
+1578,Shot Chart Detail,21500363,288,203458,Alex Len,1610612756,Phoenix Suns,3,8,43,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20151214,DAL,PHX
+1579,Shot Chart Detail,21500363,290,203458,Alex Len,1610612756,Phoenix Suns,3,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,8,1,0,20151214,DAL,PHX
+1580,Shot Chart Detail,21500363,307,203458,Alex Len,1610612756,Phoenix Suns,3,5,21,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,16,1,0,20151214,DAL,PHX
+1581,Shot Chart Detail,21500381,321,203458,Alex Len,1610612756,Phoenix Suns,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,116,1,1,20151216,GSW,PHX
+1582,Shot Chart Detail,21500381,340,203458,Alex Len,1610612756,Phoenix Suns,3,3,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-115,124,1,0,20151216,GSW,PHX
+1583,Shot Chart Detail,21500381,462,203458,Alex Len,1610612756,Phoenix Suns,4,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,31,1,0,20151216,GSW,PHX
+1584,Shot Chart Detail,21500381,483,203458,Alex Len,1610612756,Phoenix Suns,4,2,39,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,87,1,1,20151216,GSW,PHX
+1585,Shot Chart Detail,21500381,493,203458,Alex Len,1610612756,Phoenix Suns,4,1,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151216,GSW,PHX
+1586,Shot Chart Detail,21500381,497,203458,Alex Len,1610612756,Phoenix Suns,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-17,154,1,0,20151216,GSW,PHX
+1587,Shot Chart Detail,21500396,75,203458,Alex Len,1610612756,Phoenix Suns,1,4,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20151218,PHX,NOP
+1588,Shot Chart Detail,21500396,91,203458,Alex Len,1610612756,Phoenix Suns,1,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-40,170,1,1,20151218,PHX,NOP
+1589,Shot Chart Detail,21500396,93,203458,Alex Len,1610612756,Phoenix Suns,1,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,38,1,0,20151218,PHX,NOP
+1590,Shot Chart Detail,21500396,94,203458,Alex Len,1610612756,Phoenix Suns,1,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20151218,PHX,NOP
+1591,Shot Chart Detail,21500396,129,203458,Alex Len,1610612756,Phoenix Suns,2,11,37,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,0,20151218,PHX,NOP
+1592,Shot Chart Detail,21500396,130,203458,Alex Len,1610612756,Phoenix Suns,2,11,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20151218,PHX,NOP
+1593,Shot Chart Detail,21500396,198,203458,Alex Len,1610612756,Phoenix Suns,2,6,33,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20151218,PHX,NOP
+1594,Shot Chart Detail,21500396,221,203458,Alex Len,1610612756,Phoenix Suns,2,4,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151218,PHX,NOP
+1595,Shot Chart Detail,21500396,427,203458,Alex Len,1610612756,Phoenix Suns,4,10,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151218,PHX,NOP
+1596,Shot Chart Detail,21500396,500,203458,Alex Len,1610612756,Phoenix Suns,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-27,154,1,0,20151218,PHX,NOP
+1597,Shot Chart Detail,21500396,549,203458,Alex Len,1610612756,Phoenix Suns,4,0,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,26,1,1,20151218,PHX,NOP
+1598,Shot Chart Detail,21500406,123,203458,Alex Len,1610612756,Phoenix Suns,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,141,1,0,20151220,PHX,MIL
+1599,Shot Chart Detail,21500406,243,203458,Alex Len,1610612756,Phoenix Suns,2,0,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-5,1,1,20151220,PHX,MIL
+1600,Shot Chart Detail,21500406,321,203458,Alex Len,1610612756,Phoenix Suns,3,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,154,1,0,20151220,PHX,MIL
+1601,Shot Chart Detail,21500406,344,203458,Alex Len,1610612756,Phoenix Suns,3,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,154,1,0,20151220,PHX,MIL
+1602,Shot Chart Detail,21500406,354,203458,Alex Len,1610612756,Phoenix Suns,3,2,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,-5,1,0,20151220,PHX,MIL
+1603,Shot Chart Detail,21500417,87,203458,Alex Len,1610612756,Phoenix Suns,1,1,49,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151221,UTA,PHX
+1604,Shot Chart Detail,21500417,98,203458,Alex Len,1610612756,Phoenix Suns,1,0,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20151221,UTA,PHX
+1605,Shot Chart Detail,21500417,331,203458,Alex Len,1610612756,Phoenix Suns,3,3,43,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,0,20151221,UTA,PHX
+1606,Shot Chart Detail,21500417,351,203458,Alex Len,1610612756,Phoenix Suns,3,2,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,61,1,0,20151221,UTA,PHX
+1607,Shot Chart Detail,21500417,358,203458,Alex Len,1610612756,Phoenix Suns,3,1,5,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,41,1,0,20151221,UTA,PHX
+1608,Shot Chart Detail,21500417,364,203458,Alex Len,1610612756,Phoenix Suns,3,0,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-5,1,0,20151221,UTA,PHX
+1609,Shot Chart Detail,21500451,4,203458,Alex Len,1610612756,Phoenix Suns,1,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-79,139,1,0,20151226,PHX,PHI
+1610,Shot Chart Detail,21500451,15,203458,Alex Len,1610612756,Phoenix Suns,1,9,24,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20151226,PHX,PHI
+1611,Shot Chart Detail,21500451,18,203458,Alex Len,1610612756,Phoenix Suns,1,9,7,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,7,1,0,20151226,PHX,PHI
+1612,Shot Chart Detail,21500451,256,203458,Alex Len,1610612756,Phoenix Suns,2,2,48,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,13,1,1,20151226,PHX,PHI
+1613,Shot Chart Detail,21500451,262,203458,Alex Len,1610612756,Phoenix Suns,2,2,8,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,23,1,1,20151226,PHX,PHI
+1614,Shot Chart Detail,21500466,46,203458,Alex Len,1610612756,Phoenix Suns,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-6,1,0,20151228,PHX,CLE
+1615,Shot Chart Detail,21500466,127,203458,Alex Len,1610612756,Phoenix Suns,2,10,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,0,20151228,PHX,CLE
+1616,Shot Chart Detail,21500466,128,203458,Alex Len,1610612756,Phoenix Suns,2,10,3,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20151228,PHX,CLE
+1617,Shot Chart Detail,21500466,177,203458,Alex Len,1610612756,Phoenix Suns,2,6,32,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20151228,PHX,CLE
+1618,Shot Chart Detail,21500466,190,203458,Alex Len,1610612756,Phoenix Suns,2,4,47,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,0,1,0,20151228,PHX,CLE
+1619,Shot Chart Detail,21500481,411,203458,Alex Len,1610612756,Phoenix Suns,4,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,169,1,0,20151230,SAS,PHX
+1620,Shot Chart Detail,21500481,450,203458,Alex Len,1610612756,Phoenix Suns,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,18,1,0,20151230,SAS,PHX
+1621,Shot Chart Detail,21500481,464,203458,Alex Len,1610612756,Phoenix Suns,4,2,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,26,1,0,20151230,SAS,PHX
+1622,Shot Chart Detail,21500481,473,203458,Alex Len,1610612756,Phoenix Suns,4,2,15,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,13,1,0,20151230,SAS,PHX
+1623,Shot Chart Detail,21500481,499,203458,Alex Len,1610612756,Phoenix Suns,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,164,1,0,20151230,SAS,PHX
+1624,Shot Chart Detail,21500496,77,203458,Alex Len,1610612756,Phoenix Suns,1,4,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,2,1,0,20160102,SAC,PHX
+1625,Shot Chart Detail,21500510,55,203458,Alex Len,1610612756,Phoenix Suns,1,4,40,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,11,1,1,20160103,LAL,PHX
+1626,Shot Chart Detail,21500510,82,203458,Alex Len,1610612756,Phoenix Suns,1,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,174,1,0,20160103,LAL,PHX
+1627,Shot Chart Detail,21500510,314,203458,Alex Len,1610612756,Phoenix Suns,3,6,36,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160103,LAL,PHX
+1628,Shot Chart Detail,21500510,371,203458,Alex Len,1610612756,Phoenix Suns,3,1,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160103,LAL,PHX
+1629,Shot Chart Detail,21500510,402,203458,Alex Len,1610612756,Phoenix Suns,4,9,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,12,129,1,0,20160103,LAL,PHX
+1630,Shot Chart Detail,21500510,475,203458,Alex Len,1610612756,Phoenix Suns,4,2,40,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,30,28,1,0,20160103,LAL,PHX
+1631,Shot Chart Detail,21500547,97,203458,Alex Len,1610612756,Phoenix Suns,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-11,1,0,20160108,PHX,MIA
+1632,Shot Chart Detail,21500547,117,203458,Alex Len,1610612756,Phoenix Suns,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-30,195,1,0,20160108,PHX,MIA
+1633,Shot Chart Detail,21500547,138,203458,Alex Len,1610612756,Phoenix Suns,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20160108,PHX,MIA
+1634,Shot Chart Detail,21500547,358,203458,Alex Len,1610612756,Phoenix Suns,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,42,149,1,1,20160108,PHX,MIA
+1635,Shot Chart Detail,21500547,392,203458,Alex Len,1610612756,Phoenix Suns,4,10,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,46,1,0,20160108,PHX,MIA
+1636,Shot Chart Detail,21500628,365,203458,Alex Len,1610612756,Phoenix Suns,3,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,159,1,0,20160119,PHX,IND
+1637,Shot Chart Detail,21500628,392,203458,Alex Len,1610612756,Phoenix Suns,3,1,21,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20160119,PHX,IND
+1638,Shot Chart Detail,21500628,401,203458,Alex Len,1610612756,Phoenix Suns,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-78,136,1,0,20160119,PHX,IND
+1639,Shot Chart Detail,21500628,433,203458,Alex Len,1610612756,Phoenix Suns,4,9,47,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160119,PHX,IND
+1640,Shot Chart Detail,21500628,576,203458,Alex Len,1610612756,Phoenix Suns,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,134,1,0,20160119,PHX,IND
+1641,Shot Chart Detail,21500628,606,203458,Alex Len,1610612756,Phoenix Suns,4,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,1,20160119,PHX,IND
+1642,Shot Chart Detail,21500644,49,203458,Alex Len,1610612756,Phoenix Suns,1,6,26,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,33,1,1,20160121,PHX,SAS
+1643,Shot Chart Detail,21500644,62,203458,Alex Len,1610612756,Phoenix Suns,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-102,129,1,0,20160121,PHX,SAS
+1644,Shot Chart Detail,21500644,93,203458,Alex Len,1610612756,Phoenix Suns,1,2,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,74,57,1,1,20160121,PHX,SAS
+1645,Shot Chart Detail,21500644,114,203458,Alex Len,1610612756,Phoenix Suns,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,129,1,1,20160121,PHX,SAS
+1646,Shot Chart Detail,21500644,121,203458,Alex Len,1610612756,Phoenix Suns,2,11,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160121,PHX,SAS
+1647,Shot Chart Detail,21500644,153,203458,Alex Len,1610612756,Phoenix Suns,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-11,1,0,20160121,PHX,SAS
+1648,Shot Chart Detail,21500644,158,203458,Alex Len,1610612756,Phoenix Suns,2,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,0,20160121,PHX,SAS
+1649,Shot Chart Detail,21500644,269,203458,Alex Len,1610612756,Phoenix Suns,3,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20160121,PHX,SAS
+1650,Shot Chart Detail,21500644,319,203458,Alex Len,1610612756,Phoenix Suns,3,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-55,193,1,1,20160121,PHX,SAS
+1651,Shot Chart Detail,21500644,322,203458,Alex Len,1610612756,Phoenix Suns,3,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-112,115,1,0,20160121,PHX,SAS
+1652,Shot Chart Detail,21500644,422,203458,Alex Len,1610612756,Phoenix Suns,4,9,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160121,PHX,SAS
+1653,Shot Chart Detail,21500644,439,203458,Alex Len,1610612756,Phoenix Suns,4,7,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,2,1,0,20160121,PHX,SAS
+1654,Shot Chart Detail,21500644,483,203458,Alex Len,1610612756,Phoenix Suns,4,3,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20160121,PHX,SAS
+1655,Shot Chart Detail,21500644,522,203458,Alex Len,1610612756,Phoenix Suns,4,1,23,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160121,PHX,SAS
+1656,Shot Chart Detail,21500660,12,203458,Alex Len,1610612756,Phoenix Suns,1,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,151,1,1,20160123,PHX,ATL
+1657,Shot Chart Detail,21500660,31,203458,Alex Len,1610612756,Phoenix Suns,1,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-24,169,1,0,20160123,PHX,ATL
+1658,Shot Chart Detail,21500660,47,203458,Alex Len,1610612756,Phoenix Suns,1,6,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,26,1,0,20160123,PHX,ATL
+1659,Shot Chart Detail,21500660,77,203458,Alex Len,1610612756,Phoenix Suns,1,3,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,0,1,1,20160123,PHX,ATL
+1660,Shot Chart Detail,21500660,262,203458,Alex Len,1610612756,Phoenix Suns,3,11,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160123,PHX,ATL
+1661,Shot Chart Detail,21500660,330,203458,Alex Len,1610612756,Phoenix Suns,3,4,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-63,67,1,1,20160123,PHX,ATL
+1662,Shot Chart Detail,21500660,416,203458,Alex Len,1610612756,Phoenix Suns,4,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,42,180,1,0,20160123,PHX,ATL
+1663,Shot Chart Detail,21500660,440,203458,Alex Len,1610612756,Phoenix Suns,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,116,1,0,20160123,PHX,ATL
+1664,Shot Chart Detail,21500660,455,203458,Alex Len,1610612756,Phoenix Suns,4,6,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,39,1,1,20160123,PHX,ATL
+1665,Shot Chart Detail,21500660,506,203458,Alex Len,1610612756,Phoenix Suns,4,1,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,129,1,1,20160123,PHX,ATL
+1666,Shot Chart Detail,21500677,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-7,178,1,1,20160126,PHI,PHX
+1667,Shot Chart Detail,21500677,8,203458,Alex Len,1610612756,Phoenix Suns,1,10,40,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-1,1,1,20160126,PHI,PHX
+1668,Shot Chart Detail,21500677,20,203458,Alex Len,1610612756,Phoenix Suns,1,9,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-58,178,1,1,20160126,PHI,PHX
+1669,Shot Chart Detail,21500677,29,203458,Alex Len,1610612756,Phoenix Suns,1,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,169,1,0,20160126,PHI,PHX
+1670,Shot Chart Detail,21500677,48,203458,Alex Len,1610612756,Phoenix Suns,1,6,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160126,PHI,PHX
+1671,Shot Chart Detail,21500677,201,203458,Alex Len,1610612756,Phoenix Suns,2,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,1,20160126,PHI,PHX
+1672,Shot Chart Detail,21500677,234,203458,Alex Len,1610612756,Phoenix Suns,2,1,18,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,56,1,0,20160126,PHI,PHX
+1673,Shot Chart Detail,21500677,322,203458,Alex Len,1610612756,Phoenix Suns,3,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-104,151,1,1,20160126,PHI,PHX
+1674,Shot Chart Detail,21500677,414,203458,Alex Len,1610612756,Phoenix Suns,3,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20160126,PHI,PHX
+1675,Shot Chart Detail,21500677,524,203458,Alex Len,1610612756,Phoenix Suns,4,4,50,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160126,PHI,PHX
+1676,Shot Chart Detail,21500677,530,203458,Alex Len,1610612756,Phoenix Suns,4,4,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,28,1,0,20160126,PHI,PHX
+1677,Shot Chart Detail,21500677,545,203458,Alex Len,1610612756,Phoenix Suns,4,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,129,1,0,20160126,PHI,PHX
+1678,Shot Chart Detail,21500684,21,203458,Alex Len,1610612756,Phoenix Suns,1,9,58,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-14,100,1,0,20160127,CLE,PHX
+1679,Shot Chart Detail,21500684,30,203458,Alex Len,1610612756,Phoenix Suns,1,8,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,56,1,1,20160127,CLE,PHX
+1680,Shot Chart Detail,21500684,85,203458,Alex Len,1610612756,Phoenix Suns,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-178,92,1,0,20160127,CLE,PHX
+1681,Shot Chart Detail,21500684,232,203458,Alex Len,1610612756,Phoenix Suns,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,164,1,0,20160127,CLE,PHX
+1682,Shot Chart Detail,21500684,247,203458,Alex Len,1610612756,Phoenix Suns,2,1,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,31,1,1,20160127,CLE,PHX
+1683,Shot Chart Detail,21500684,249,203458,Alex Len,1610612756,Phoenix Suns,2,1,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,41,1,0,20160127,CLE,PHX
+1684,Shot Chart Detail,21500684,258,203458,Alex Len,1610612756,Phoenix Suns,2,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,7,1,0,20160127,CLE,PHX
+1685,Shot Chart Detail,21500684,400,203458,Alex Len,1610612756,Phoenix Suns,4,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,0,20160127,CLE,PHX
+1686,Shot Chart Detail,21500684,415,203458,Alex Len,1610612756,Phoenix Suns,4,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,121,1,0,20160127,CLE,PHX
+1687,Shot Chart Detail,21500700,14,203458,Alex Len,1610612756,Phoenix Suns,1,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,0,1,1,20160129,NYK,PHX
+1688,Shot Chart Detail,21500700,21,203458,Alex Len,1610612756,Phoenix Suns,1,10,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-55,70,1,0,20160129,NYK,PHX
+1689,Shot Chart Detail,21500700,434,203458,Alex Len,1610612756,Phoenix Suns,4,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20160129,NYK,PHX
+1690,Shot Chart Detail,21500700,444,203458,Alex Len,1610612756,Phoenix Suns,4,5,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20160129,NYK,PHX
+1691,Shot Chart Detail,21500700,451,203458,Alex Len,1610612756,Phoenix Suns,4,4,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,120,1,0,20160129,NYK,PHX
+1692,Shot Chart Detail,21500717,124,203458,Alex Len,1610612756,Phoenix Suns,1,0,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,16,1,1,20160131,DAL,PHX
+1693,Shot Chart Detail,21500717,141,203458,Alex Len,1610612756,Phoenix Suns,2,11,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,18,1,1,20160131,DAL,PHX
+1694,Shot Chart Detail,21500732,97,203458,Alex Len,1610612756,Phoenix Suns,1,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,3,1,0,20160202,PHX,TOR
+1695,Shot Chart Detail,21500732,145,203458,Alex Len,1610612756,Phoenix Suns,2,10,39,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,2,1,0,20160202,PHX,TOR
+1696,Shot Chart Detail,21500732,151,203458,Alex Len,1610612756,Phoenix Suns,2,9,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160202,PHX,TOR
+1697,Shot Chart Detail,21500732,409,203458,Alex Len,1610612756,Phoenix Suns,4,11,16,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,0,20160202,PHX,TOR
+1698,Shot Chart Detail,21500732,399,203458,Alex Len,1610612756,Phoenix Suns,4,11,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,0,20160202,PHX,TOR
+1699,Shot Chart Detail,21500749,81,203458,Alex Len,1610612756,Phoenix Suns,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,33,164,1,0,20160204,PHX,HOU
+1700,Shot Chart Detail,21500749,144,203458,Alex Len,1610612756,Phoenix Suns,2,11,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,0,20160204,PHX,HOU
+1701,Shot Chart Detail,21500749,145,203458,Alex Len,1610612756,Phoenix Suns,2,11,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-16,1,0,20160204,PHX,HOU
+1702,Shot Chart Detail,21500749,161,203458,Alex Len,1610612756,Phoenix Suns,2,10,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160204,PHX,HOU
+1703,Shot Chart Detail,21500749,190,203458,Alex Len,1610612756,Phoenix Suns,2,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,9,188,1,1,20160204,PHX,HOU
+1704,Shot Chart Detail,21500749,216,203458,Alex Len,1610612756,Phoenix Suns,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,21,1,0,20160204,PHX,HOU
+1705,Shot Chart Detail,21500749,388,203458,Alex Len,1610612756,Phoenix Suns,3,4,3,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,51,1,0,20160204,PHX,HOU
+1706,Shot Chart Detail,21500749,397,203458,Alex Len,1610612756,Phoenix Suns,3,3,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20160204,PHX,HOU
+1707,Shot Chart Detail,21500749,395,203458,Alex Len,1610612756,Phoenix Suns,3,3,2,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,0,20160204,PHX,HOU
+1708,Shot Chart Detail,21500749,427,203458,Alex Len,1610612756,Phoenix Suns,3,0,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160204,PHX,HOU
+1709,Shot Chart Detail,21500749,485,203458,Alex Len,1610612756,Phoenix Suns,4,8,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,26,1,1,20160204,PHX,HOU
+1710,Shot Chart Detail,21500768,67,203458,Alex Len,1610612756,Phoenix Suns,1,4,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160206,PHX,UTA
+1711,Shot Chart Detail,21500768,69,203458,Alex Len,1610612756,Phoenix Suns,1,3,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,0,20160206,PHX,UTA
+1712,Shot Chart Detail,21500768,84,203458,Alex Len,1610612756,Phoenix Suns,1,2,35,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,0,1,0,20160206,PHX,UTA
+1713,Shot Chart Detail,21500768,90,203458,Alex Len,1610612756,Phoenix Suns,1,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,23,1,0,20160206,PHX,UTA
+1714,Shot Chart Detail,21500768,380,203458,Alex Len,1610612756,Phoenix Suns,4,11,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,31,1,1,20160206,PHX,UTA
+1715,Shot Chart Detail,21500768,428,203458,Alex Len,1610612756,Phoenix Suns,4,5,36,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,2,1,0,20160206,PHX,UTA
+1716,Shot Chart Detail,21500783,93,203458,Alex Len,1610612756,Phoenix Suns,1,1,58,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-6,1,0,20160208,PHX,OKC
+1717,Shot Chart Detail,21500783,103,203458,Alex Len,1610612756,Phoenix Suns,1,1,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160208,PHX,OKC
+1718,Shot Chart Detail,21500783,134,203458,Alex Len,1610612756,Phoenix Suns,2,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160208,PHX,OKC
+1719,Shot Chart Detail,21500783,156,203458,Alex Len,1610612756,Phoenix Suns,2,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,144,1,1,20160208,PHX,OKC
+1720,Shot Chart Detail,21500783,158,203458,Alex Len,1610612756,Phoenix Suns,2,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,169,1,1,20160208,PHX,OKC
+1721,Shot Chart Detail,21500783,181,203458,Alex Len,1610612756,Phoenix Suns,2,4,31,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160208,PHX,OKC
+1722,Shot Chart Detail,21500783,335,203458,Alex Len,1610612756,Phoenix Suns,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,126,1,0,20160208,PHX,OKC
+1723,Shot Chart Detail,21500799,85,203458,Alex Len,1610612756,Phoenix Suns,1,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,0,20160210,PHX,GSW
+1724,Shot Chart Detail,21500799,108,203458,Alex Len,1610612756,Phoenix Suns,1,1,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160210,PHX,GSW
+1725,Shot Chart Detail,21500799,168,203458,Alex Len,1610612756,Phoenix Suns,2,7,52,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20160210,PHX,GSW
+1726,Shot Chart Detail,21500799,175,203458,Alex Len,1610612756,Phoenix Suns,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-68,178,1,0,20160210,PHX,GSW
+1727,Shot Chart Detail,21500799,179,203458,Alex Len,1610612756,Phoenix Suns,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,11,1,0,20160210,PHX,GSW
+1728,Shot Chart Detail,21500799,423,203458,Alex Len,1610612756,Phoenix Suns,4,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,9,190,1,1,20160210,PHX,GSW
+1729,Shot Chart Detail,21500799,447,203458,Alex Len,1610612756,Phoenix Suns,4,8,45,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,0,20160210,PHX,GSW
+1730,Shot Chart Detail,21500826,27,203458,Alex Len,1610612756,Phoenix Suns,1,9,18,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,16,1,1,20160221,PHX,SAS
+1731,Shot Chart Detail,21500826,30,203458,Alex Len,1610612756,Phoenix Suns,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-1,185,1,1,20160221,PHX,SAS
+1732,Shot Chart Detail,21500826,50,203458,Alex Len,1610612756,Phoenix Suns,1,6,22,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-97,61,1,0,20160221,PHX,SAS
+1733,Shot Chart Detail,21500826,188,203458,Alex Len,1610612756,Phoenix Suns,2,5,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,41,1,0,20160221,PHX,SAS
+1734,Shot Chart Detail,21500826,195,203458,Alex Len,1610612756,Phoenix Suns,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-1,1,0,20160221,PHX,SAS
+1735,Shot Chart Detail,21500826,202,203458,Alex Len,1610612756,Phoenix Suns,2,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,14,156,1,0,20160221,PHX,SAS
+1736,Shot Chart Detail,21500826,211,203458,Alex Len,1610612756,Phoenix Suns,2,3,33,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160221,PHX,SAS
+1737,Shot Chart Detail,21500826,215,203458,Alex Len,1610612756,Phoenix Suns,2,3,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160221,PHX,SAS
+1738,Shot Chart Detail,21500826,250,203458,Alex Len,1610612756,Phoenix Suns,2,0,45,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160221,PHX,SAS
+1739,Shot Chart Detail,21500826,266,203458,Alex Len,1610612756,Phoenix Suns,3,11,47,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,26,1,0,20160221,PHX,SAS
+1740,Shot Chart Detail,21500826,286,203458,Alex Len,1610612756,Phoenix Suns,3,9,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,1,20160221,PHX,SAS
+1741,Shot Chart Detail,21500826,291,203458,Alex Len,1610612756,Phoenix Suns,3,8,53,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160221,PHX,SAS
+1742,Shot Chart Detail,21500826,513,203458,Alex Len,1610612756,Phoenix Suns,4,3,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,86,72,1,1,20160221,PHX,SAS
+1743,Shot Chart Detail,21500826,516,203458,Alex Len,1610612756,Phoenix Suns,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-65,144,1,1,20160221,PHX,SAS
+1744,Shot Chart Detail,21500826,524,203458,Alex Len,1610612756,Phoenix Suns,4,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,0,20160221,PHX,SAS
+1745,Shot Chart Detail,21500839,3,203458,Alex Len,1610612756,Phoenix Suns,1,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-151,90,1,0,20160222,LAC,PHX
+1746,Shot Chart Detail,21500839,47,203458,Alex Len,1610612756,Phoenix Suns,1,7,4,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,28,1,0,20160222,LAC,PHX
+1747,Shot Chart Detail,21500839,70,203458,Alex Len,1610612756,Phoenix Suns,1,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,16,1,0,20160222,LAC,PHX
+1748,Shot Chart Detail,21500839,152,203458,Alex Len,1610612756,Phoenix Suns,2,11,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,1,20160222,LAC,PHX
+1749,Shot Chart Detail,21500839,183,203458,Alex Len,1610612756,Phoenix Suns,2,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-74,198,1,1,20160222,LAC,PHX
+1750,Shot Chart Detail,21500839,196,203458,Alex Len,1610612756,Phoenix Suns,2,8,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160222,LAC,PHX
+1751,Shot Chart Detail,21500839,207,203458,Alex Len,1610612756,Phoenix Suns,2,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-83,136,1,0,20160222,LAC,PHX
+1752,Shot Chart Detail,21500839,235,203458,Alex Len,1610612756,Phoenix Suns,2,4,36,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,77,1,0,20160222,LAC,PHX
+1753,Shot Chart Detail,21500839,320,203458,Alex Len,1610612756,Phoenix Suns,3,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-66,126,1,0,20160222,LAC,PHX
+1754,Shot Chart Detail,21500839,329,203458,Alex Len,1610612756,Phoenix Suns,3,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160222,LAC,PHX
+1755,Shot Chart Detail,21500839,335,203458,Alex Len,1610612756,Phoenix Suns,3,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,13,1,0,20160222,LAC,PHX
+1756,Shot Chart Detail,21500839,340,203458,Alex Len,1610612756,Phoenix Suns,3,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,175,1,1,20160222,LAC,PHX
+1757,Shot Chart Detail,21500839,343,203458,Alex Len,1610612756,Phoenix Suns,3,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,25,164,1,0,20160222,LAC,PHX
+1758,Shot Chart Detail,21500839,465,203458,Alex Len,1610612756,Phoenix Suns,4,9,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,41,1,0,20160222,LAC,PHX
+1759,Shot Chart Detail,21500839,512,203458,Alex Len,1610612756,Phoenix Suns,4,5,14,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,9,75,1,0,20160222,LAC,PHX
+1760,Shot Chart Detail,21500839,520,203458,Alex Len,1610612756,Phoenix Suns,4,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,178,1,0,20160222,LAC,PHX
+1761,Shot Chart Detail,21500858,89,203458,Alex Len,1610612756,Phoenix Suns,1,2,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,1,20160225,PHX,BKN
+1762,Shot Chart Detail,21500858,99,203458,Alex Len,1610612756,Phoenix Suns,1,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,18,1,0,20160225,PHX,BKN
+1763,Shot Chart Detail,21500858,101,203458,Alex Len,1610612756,Phoenix Suns,1,1,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,0,20160225,PHX,BKN
+1764,Shot Chart Detail,21500858,110,203458,Alex Len,1610612756,Phoenix Suns,1,0,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,21,1,0,20160225,PHX,BKN
+1765,Shot Chart Detail,21500858,139,203458,Alex Len,1610612756,Phoenix Suns,2,10,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160225,PHX,BKN
+1766,Shot Chart Detail,21500858,256,203458,Alex Len,1610612756,Phoenix Suns,2,1,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,0,20160225,PHX,BKN
+1767,Shot Chart Detail,21500858,351,203458,Alex Len,1610612756,Phoenix Suns,3,5,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,35,46,1,1,20160225,PHX,BKN
+1768,Shot Chart Detail,21500858,358,203458,Alex Len,1610612756,Phoenix Suns,3,4,37,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,21,1,0,20160225,PHX,BKN
+1769,Shot Chart Detail,21500858,416,203458,Alex Len,1610612756,Phoenix Suns,3,1,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,52,1,1,20160225,PHX,BKN
+1770,Shot Chart Detail,21500858,600,203458,Alex Len,1610612756,Phoenix Suns,4,0,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,1,20160225,PHX,BKN
+1771,Shot Chart Detail,21500875,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160227,PHX,MEM
+1772,Shot Chart Detail,21500875,5,203458,Alex Len,1610612756,Phoenix Suns,1,11,13,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,26,1,0,20160227,PHX,MEM
+1773,Shot Chart Detail,21500875,86,203458,Alex Len,1610612756,Phoenix Suns,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,11,1,0,20160227,PHX,MEM
+1774,Shot Chart Detail,21500875,303,203458,Alex Len,1610612756,Phoenix Suns,3,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,178,1,1,20160227,PHX,MEM
+1775,Shot Chart Detail,21500875,344,203458,Alex Len,1610612756,Phoenix Suns,3,5,57,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20160227,PHX,MEM
+1776,Shot Chart Detail,21500875,350,203458,Alex Len,1610612756,Phoenix Suns,3,5,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160227,PHX,MEM
+1777,Shot Chart Detail,21500875,475,203458,Alex Len,1610612756,Phoenix Suns,4,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,2,1,0,20160227,PHX,MEM
+1778,Shot Chart Detail,21500875,480,203458,Alex Len,1610612756,Phoenix Suns,4,7,28,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,7,1,0,20160227,PHX,MEM
+1779,Shot Chart Detail,21500875,497,203458,Alex Len,1610612756,Phoenix Suns,4,6,33,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,2,1,1,20160227,PHX,MEM
+1780,Shot Chart Detail,21500875,544,203458,Alex Len,1610612756,Phoenix Suns,4,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-137,61,1,1,20160227,PHX,MEM
+1781,Shot Chart Detail,21500875,560,203458,Alex Len,1610612756,Phoenix Suns,4,1,5,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160227,PHX,MEM
+1782,Shot Chart Detail,21500891,3,203458,Alex Len,1610612756,Phoenix Suns,1,11,24,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20160301,CHA,PHX
+1783,Shot Chart Detail,21500891,6,203458,Alex Len,1610612756,Phoenix Suns,1,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-138,154,1,0,20160301,CHA,PHX
+1784,Shot Chart Detail,21500891,48,203458,Alex Len,1610612756,Phoenix Suns,1,6,59,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,94,61,1,0,20160301,CHA,PHX
+1785,Shot Chart Detail,21500891,222,203458,Alex Len,1610612756,Phoenix Suns,2,6,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,11,1,0,20160301,CHA,PHX
+1786,Shot Chart Detail,21500891,221,203458,Alex Len,1610612756,Phoenix Suns,2,6,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,0,20160301,CHA,PHX
+1787,Shot Chart Detail,21500891,276,203458,Alex Len,1610612756,Phoenix Suns,2,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-27,164,1,1,20160301,CHA,PHX
+1788,Shot Chart Detail,21500891,280,203458,Alex Len,1610612756,Phoenix Suns,2,1,12,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,26,1,0,20160301,CHA,PHX
+1789,Shot Chart Detail,21500891,292,203458,Alex Len,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,65,1,0,20160301,CHA,PHX
+1790,Shot Chart Detail,21500891,307,203458,Alex Len,1610612756,Phoenix Suns,3,10,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160301,CHA,PHX
+1791,Shot Chart Detail,21500891,324,203458,Alex Len,1610612756,Phoenix Suns,3,8,42,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,31,1,0,20160301,CHA,PHX
+1792,Shot Chart Detail,21500891,368,203458,Alex Len,1610612756,Phoenix Suns,3,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,80,1,0,20160301,CHA,PHX
+1793,Shot Chart Detail,21500891,512,203458,Alex Len,1610612756,Phoenix Suns,4,5,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,16,1,0,20160301,CHA,PHX
+1794,Shot Chart Detail,21500891,523,203458,Alex Len,1610612756,Phoenix Suns,4,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,170,1,0,20160301,CHA,PHX
+1795,Shot Chart Detail,21500891,542,203458,Alex Len,1610612756,Phoenix Suns,4,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20160301,CHA,PHX
+1796,Shot Chart Detail,21500891,555,203458,Alex Len,1610612756,Phoenix Suns,4,1,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160301,CHA,PHX
+1797,Shot Chart Detail,21500908,8,203458,Alex Len,1610612756,Phoenix Suns,1,10,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,18,1,0,20160303,MIA,PHX
+1798,Shot Chart Detail,21500908,27,203458,Alex Len,1610612756,Phoenix Suns,1,9,57,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-47,67,1,0,20160303,MIA,PHX
+1799,Shot Chart Detail,21500908,41,203458,Alex Len,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,11,1,0,20160303,MIA,PHX
+1800,Shot Chart Detail,21500908,54,203458,Alex Len,1610612756,Phoenix Suns,1,7,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160303,MIA,PHX
+1801,Shot Chart Detail,21500908,68,203458,Alex Len,1610612756,Phoenix Suns,1,5,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160303,MIA,PHX
+1802,Shot Chart Detail,21500908,83,203458,Alex Len,1610612756,Phoenix Suns,1,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,1,190,1,0,20160303,MIA,PHX
+1803,Shot Chart Detail,21500908,171,203458,Alex Len,1610612756,Phoenix Suns,2,8,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,51,1,0,20160303,MIA,PHX
+1804,Shot Chart Detail,21500908,195,203458,Alex Len,1610612756,Phoenix Suns,2,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,166,1,0,20160303,MIA,PHX
+1805,Shot Chart Detail,21500908,196,203458,Alex Len,1610612756,Phoenix Suns,2,6,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160303,MIA,PHX
+1806,Shot Chart Detail,21500908,209,203458,Alex Len,1610612756,Phoenix Suns,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,16,1,1,20160303,MIA,PHX
+1807,Shot Chart Detail,21500908,228,203458,Alex Len,1610612756,Phoenix Suns,2,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20160303,MIA,PHX
+1808,Shot Chart Detail,21500908,274,203458,Alex Len,1610612756,Phoenix Suns,2,0,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,57,1,0,20160303,MIA,PHX
+1809,Shot Chart Detail,21500908,471,203458,Alex Len,1610612756,Phoenix Suns,4,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,0,20160303,MIA,PHX
+1810,Shot Chart Detail,21500908,531,203458,Alex Len,1610612756,Phoenix Suns,4,1,48,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,60,52,1,0,20160303,MIA,PHX
+1811,Shot Chart Detail,21500913,17,203458,Alex Len,1610612756,Phoenix Suns,1,10,11,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,16,1,1,20160304,ORL,PHX
+1812,Shot Chart Detail,21500913,19,203458,Alex Len,1610612756,Phoenix Suns,1,9,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,38,1,0,20160304,ORL,PHX
+1813,Shot Chart Detail,21500913,23,203458,Alex Len,1610612756,Phoenix Suns,1,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,36,1,1,20160304,ORL,PHX
+1814,Shot Chart Detail,21500913,27,203458,Alex Len,1610612756,Phoenix Suns,1,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-9,174,1,1,20160304,ORL,PHX
+1815,Shot Chart Detail,21500913,29,203458,Alex Len,1610612756,Phoenix Suns,1,8,33,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,0,20160304,ORL,PHX
+1816,Shot Chart Detail,21500913,38,203458,Alex Len,1610612756,Phoenix Suns,1,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,80,1,1,20160304,ORL,PHX
+1817,Shot Chart Detail,21500913,44,203458,Alex Len,1610612756,Phoenix Suns,1,6,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,75,1,1,20160304,ORL,PHX
+1818,Shot Chart Detail,21500913,72,203458,Alex Len,1610612756,Phoenix Suns,1,3,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160304,ORL,PHX
+1819,Shot Chart Detail,21500913,97,203458,Alex Len,1610612756,Phoenix Suns,1,1,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,65,1,0,20160304,ORL,PHX
+1820,Shot Chart Detail,21500913,119,203458,Alex Len,1610612756,Phoenix Suns,1,0,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20160304,ORL,PHX
+1821,Shot Chart Detail,21500913,228,203458,Alex Len,1610612756,Phoenix Suns,2,3,40,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,77,1,0,20160304,ORL,PHX
+1822,Shot Chart Detail,21500913,248,203458,Alex Len,1610612756,Phoenix Suns,2,2,54,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,75,1,1,20160304,ORL,PHX
+1823,Shot Chart Detail,21500913,251,203458,Alex Len,1610612756,Phoenix Suns,2,2,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,55,65,1,0,20160304,ORL,PHX
+1824,Shot Chart Detail,21500913,290,203458,Alex Len,1610612756,Phoenix Suns,2,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,0,20160304,ORL,PHX
+1825,Shot Chart Detail,21500913,329,203458,Alex Len,1610612756,Phoenix Suns,3,9,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160304,ORL,PHX
+1826,Shot Chart Detail,21500913,332,203458,Alex Len,1610612756,Phoenix Suns,3,8,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,16,1,0,20160304,ORL,PHX
+1827,Shot Chart Detail,21500913,378,203458,Alex Len,1610612756,Phoenix Suns,3,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-10,1,0,20160304,ORL,PHX
+1828,Shot Chart Detail,21500913,441,203458,Alex Len,1610612756,Phoenix Suns,3,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-66,164,1,0,20160304,ORL,PHX
+1829,Shot Chart Detail,21500913,468,203458,Alex Len,1610612756,Phoenix Suns,4,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,18,1,1,20160304,ORL,PHX
+1830,Shot Chart Detail,21500913,499,203458,Alex Len,1610612756,Phoenix Suns,4,7,54,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160304,ORL,PHX
+1831,Shot Chart Detail,21500913,516,203458,Alex Len,1610612756,Phoenix Suns,4,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,149,1,0,20160304,ORL,PHX
+1832,Shot Chart Detail,21500913,550,203458,Alex Len,1610612756,Phoenix Suns,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,11,1,0,20160304,ORL,PHX
+1833,Shot Chart Detail,21500932,33,203458,Alex Len,1610612756,Phoenix Suns,1,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-21,1,0,20160306,MEM,PHX
+1834,Shot Chart Detail,21500932,39,203458,Alex Len,1610612756,Phoenix Suns,1,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,183,1,1,20160306,MEM,PHX
+1835,Shot Chart Detail,21500932,41,203458,Alex Len,1610612756,Phoenix Suns,1,6,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,175,1,1,20160306,MEM,PHX
+1836,Shot Chart Detail,21500932,55,203458,Alex Len,1610612756,Phoenix Suns,1,5,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,42,95,1,0,20160306,MEM,PHX
+1837,Shot Chart Detail,21500932,218,203458,Alex Len,1610612756,Phoenix Suns,2,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20160306,MEM,PHX
+1838,Shot Chart Detail,21500932,241,203458,Alex Len,1610612756,Phoenix Suns,2,4,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,0,20160306,MEM,PHX
+1839,Shot Chart Detail,21500932,257,203458,Alex Len,1610612756,Phoenix Suns,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2,193,1,0,20160306,MEM,PHX
+1840,Shot Chart Detail,21500932,327,203458,Alex Len,1610612756,Phoenix Suns,3,7,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-22,70,1,0,20160306,MEM,PHX
+1841,Shot Chart Detail,21500932,332,203458,Alex Len,1610612756,Phoenix Suns,3,6,46,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,33,70,1,1,20160306,MEM,PHX
+1842,Shot Chart Detail,21500932,341,203458,Alex Len,1610612756,Phoenix Suns,3,5,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20160306,MEM,PHX
+1843,Shot Chart Detail,21500932,497,203458,Alex Len,1610612756,Phoenix Suns,4,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,141,1,0,20160306,MEM,PHX
+1844,Shot Chart Detail,21500932,517,203458,Alex Len,1610612756,Phoenix Suns,4,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,0,20160306,MEM,PHX
+1845,Shot Chart Detail,21500956,17,203458,Alex Len,1610612756,Phoenix Suns,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,70,1,0,20160309,PHX,NYK
+1846,Shot Chart Detail,21500956,122,203458,Alex Len,1610612756,Phoenix Suns,2,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,7,1,0,20160309,PHX,NYK
+1847,Shot Chart Detail,21500956,136,203458,Alex Len,1610612756,Phoenix Suns,2,10,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,41,1,1,20160309,PHX,NYK
+1848,Shot Chart Detail,21500956,141,203458,Alex Len,1610612756,Phoenix Suns,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-1,1,0,20160309,PHX,NYK
+1849,Shot Chart Detail,21500956,173,203458,Alex Len,1610612756,Phoenix Suns,2,7,36,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,0,20160309,PHX,NYK
+1850,Shot Chart Detail,21500956,182,203458,Alex Len,1610612756,Phoenix Suns,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-160,110,1,0,20160309,PHX,NYK
+1851,Shot Chart Detail,21500956,192,203458,Alex Len,1610612756,Phoenix Suns,2,5,55,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-1,1,0,20160309,PHX,NYK
+1852,Shot Chart Detail,21500956,198,203458,Alex Len,1610612756,Phoenix Suns,2,5,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,16,1,0,20160309,PHX,NYK
+1853,Shot Chart Detail,21500956,256,203458,Alex Len,1610612756,Phoenix Suns,3,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,146,1,1,20160309,PHX,NYK
+1854,Shot Chart Detail,21500956,262,203458,Alex Len,1610612756,Phoenix Suns,3,10,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,2,1,1,20160309,PHX,NYK
+1855,Shot Chart Detail,21500956,345,203458,Alex Len,1610612756,Phoenix Suns,3,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-29,170,1,1,20160309,PHX,NYK
+1856,Shot Chart Detail,21500956,412,203458,Alex Len,1610612756,Phoenix Suns,4,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,2,1,0,20160309,PHX,NYK
+1857,Shot Chart Detail,21500961,5,203458,Alex Len,1610612756,Phoenix Suns,1,11,8,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,0,20160310,DEN,PHX
+1858,Shot Chart Detail,21500961,11,203458,Alex Len,1610612756,Phoenix Suns,1,10,32,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20160310,DEN,PHX
+1859,Shot Chart Detail,21500961,13,203458,Alex Len,1610612756,Phoenix Suns,1,9,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,0,20160310,DEN,PHX
+1860,Shot Chart Detail,21500961,51,203458,Alex Len,1610612756,Phoenix Suns,1,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,0,20160310,DEN,PHX
+1861,Shot Chart Detail,21500961,117,203458,Alex Len,1610612756,Phoenix Suns,1,2,20,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-1,1,0,20160310,DEN,PHX
+1862,Shot Chart Detail,21500961,119,203458,Alex Len,1610612756,Phoenix Suns,1,2,19,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,0,20160310,DEN,PHX
+1863,Shot Chart Detail,21500961,224,203458,Alex Len,1610612756,Phoenix Suns,2,5,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,8,1,0,20160310,DEN,PHX
+1864,Shot Chart Detail,21500961,227,203458,Alex Len,1610612756,Phoenix Suns,2,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,134,1,1,20160310,DEN,PHX
+1865,Shot Chart Detail,21500961,285,203458,Alex Len,1610612756,Phoenix Suns,2,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,21,1,0,20160310,DEN,PHX
+1866,Shot Chart Detail,21500961,323,203458,Alex Len,1610612756,Phoenix Suns,3,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,0,20160310,DEN,PHX
+1867,Shot Chart Detail,21500961,359,203458,Alex Len,1610612756,Phoenix Suns,3,7,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,0,20160310,DEN,PHX
+1868,Shot Chart Detail,21500961,528,203458,Alex Len,1610612756,Phoenix Suns,3,7,4,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,0,20160310,DEN,PHX
+1869,Shot Chart Detail,21500961,474,203458,Alex Len,1610612756,Phoenix Suns,4,9,37,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,31,1,0,20160310,DEN,PHX
+1870,Shot Chart Detail,21500981,42,203458,Alex Len,1610612756,Phoenix Suns,1,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,43,169,1,1,20160312,GSW,PHX
+1871,Shot Chart Detail,21500981,50,203458,Alex Len,1610612756,Phoenix Suns,1,6,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160312,GSW,PHX
+1872,Shot Chart Detail,21500981,55,203458,Alex Len,1610612756,Phoenix Suns,1,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20160312,GSW,PHX
+1873,Shot Chart Detail,21500981,101,203458,Alex Len,1610612756,Phoenix Suns,1,1,52,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,21,1,0,20160312,GSW,PHX
+1874,Shot Chart Detail,21500981,144,203458,Alex Len,1610612756,Phoenix Suns,2,9,29,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160312,GSW,PHX
+1875,Shot Chart Detail,21500981,146,203458,Alex Len,1610612756,Phoenix Suns,2,9,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20160312,GSW,PHX
+1876,Shot Chart Detail,21500981,165,203458,Alex Len,1610612756,Phoenix Suns,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,26,1,0,20160312,GSW,PHX
+1877,Shot Chart Detail,21500981,175,203458,Alex Len,1610612756,Phoenix Suns,2,6,54,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20160312,GSW,PHX
+1878,Shot Chart Detail,21500981,188,203458,Alex Len,1610612756,Phoenix Suns,2,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,174,1,1,20160312,GSW,PHX
+1879,Shot Chart Detail,21500981,190,203458,Alex Len,1610612756,Phoenix Suns,2,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,7,1,1,20160312,GSW,PHX
+1880,Shot Chart Detail,21500981,285,203458,Alex Len,1610612756,Phoenix Suns,3,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,12,185,1,0,20160312,GSW,PHX
+1881,Shot Chart Detail,21500981,288,203458,Alex Len,1610612756,Phoenix Suns,3,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,74,156,1,1,20160312,GSW,PHX
+1882,Shot Chart Detail,21500981,300,203458,Alex Len,1610612756,Phoenix Suns,3,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-148,164,1,1,20160312,GSW,PHX
+1883,Shot Chart Detail,21500981,314,203458,Alex Len,1610612756,Phoenix Suns,3,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,164,1,0,20160312,GSW,PHX
+1884,Shot Chart Detail,21500981,430,203458,Alex Len,1610612756,Phoenix Suns,4,10,0,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-6,1,0,20160312,GSW,PHX
+1885,Shot Chart Detail,21500981,441,203458,Alex Len,1610612756,Phoenix Suns,4,9,0,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,51,1,1,20160312,GSW,PHX
+1886,Shot Chart Detail,21500981,498,203458,Alex Len,1610612756,Phoenix Suns,4,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,31,1,0,20160312,GSW,PHX
+1887,Shot Chart Detail,21500981,511,203458,Alex Len,1610612756,Phoenix Suns,4,3,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,36,1,0,20160312,GSW,PHX
+1888,Shot Chart Detail,21500995,10,203458,Alex Len,1610612756,Phoenix Suns,1,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-10,1,0,20160314,PHX,MIN
+1889,Shot Chart Detail,21500995,243,203458,Alex Len,1610612756,Phoenix Suns,2,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,164,1,0,20160314,PHX,MIN
+1890,Shot Chart Detail,21500995,290,203458,Alex Len,1610612756,Phoenix Suns,3,11,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,146,1,0,20160314,PHX,MIN
+1891,Shot Chart Detail,21500995,302,203458,Alex Len,1610612756,Phoenix Suns,3,10,8,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,8,1,1,20160314,PHX,MIN
+1892,Shot Chart Detail,21500995,310,203458,Alex Len,1610612756,Phoenix Suns,3,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,40,174,1,0,20160314,PHX,MIN
+1893,Shot Chart Detail,21500995,337,203458,Alex Len,1610612756,Phoenix Suns,3,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,149,1,1,20160314,PHX,MIN
+1894,Shot Chart Detail,21500995,353,203458,Alex Len,1610612756,Phoenix Suns,3,5,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160314,PHX,MIN
+1895,Shot Chart Detail,21500995,382,203458,Alex Len,1610612756,Phoenix Suns,3,2,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,0,20160314,PHX,MIN
+1896,Shot Chart Detail,21501019,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,45,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,16,1,1,20160317,UTA,PHX
+1897,Shot Chart Detail,21501019,21,203458,Alex Len,1610612756,Phoenix Suns,1,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,45,178,1,0,20160317,UTA,PHX
+1898,Shot Chart Detail,21501019,40,203458,Alex Len,1610612756,Phoenix Suns,1,6,52,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,-16,1,0,20160317,UTA,PHX
+1899,Shot Chart Detail,21501019,51,203458,Alex Len,1610612756,Phoenix Suns,1,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,12,185,1,0,20160317,UTA,PHX
+1900,Shot Chart Detail,21501019,56,203458,Alex Len,1610612756,Phoenix Suns,1,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,35,174,1,1,20160317,UTA,PHX
+1901,Shot Chart Detail,21501019,84,203458,Alex Len,1610612756,Phoenix Suns,1,1,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,75,1,1,20160317,UTA,PHX
+1902,Shot Chart Detail,21501019,187,203458,Alex Len,1610612756,Phoenix Suns,2,2,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,0,20160317,UTA,PHX
+1903,Shot Chart Detail,21501019,190,203458,Alex Len,1610612756,Phoenix Suns,2,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,47,1,0,20160317,UTA,PHX
+1904,Shot Chart Detail,21501019,229,203458,Alex Len,1610612756,Phoenix Suns,3,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,86,164,1,0,20160317,UTA,PHX
+1905,Shot Chart Detail,21501019,238,203458,Alex Len,1610612756,Phoenix Suns,3,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,154,1,0,20160317,UTA,PHX
+1906,Shot Chart Detail,21501019,275,203458,Alex Len,1610612756,Phoenix Suns,3,7,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,0,20160317,UTA,PHX
+1907,Shot Chart Detail,21501019,304,203458,Alex Len,1610612756,Phoenix Suns,3,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20160317,UTA,PHX
+1908,Shot Chart Detail,21501019,317,203458,Alex Len,1610612756,Phoenix Suns,3,3,49,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,21,1,0,20160317,UTA,PHX
+1909,Shot Chart Detail,21501019,399,203458,Alex Len,1610612756,Phoenix Suns,4,8,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,7,1,0,20160317,UTA,PHX
+1910,Shot Chart Detail,21501019,420,203458,Alex Len,1610612756,Phoenix Suns,4,6,17,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-21,1,0,20160317,UTA,PHX
+1911,Shot Chart Detail,21501027,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,7,1,0,20160318,LAL,PHX
+1912,Shot Chart Detail,21501027,33,203458,Alex Len,1610612756,Phoenix Suns,1,7,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,43,1,0,20160318,LAL,PHX
+1913,Shot Chart Detail,21501027,35,203458,Alex Len,1610612756,Phoenix Suns,1,7,16,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-1,1,0,20160318,LAL,PHX
+1914,Shot Chart Detail,21501027,75,203458,Alex Len,1610612756,Phoenix Suns,1,3,39,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,11,1,0,20160318,LAL,PHX
+1915,Shot Chart Detail,21501027,81,203458,Alex Len,1610612756,Phoenix Suns,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-17,164,1,0,20160318,LAL,PHX
+1916,Shot Chart Detail,21501027,257,203458,Alex Len,1610612756,Phoenix Suns,3,11,22,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20160318,LAL,PHX
+1917,Shot Chart Detail,21501027,278,203458,Alex Len,1610612756,Phoenix Suns,3,9,39,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-48,95,1,0,20160318,LAL,PHX
+1918,Shot Chart Detail,21501027,290,203458,Alex Len,1610612756,Phoenix Suns,3,8,36,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,46,1,0,20160318,LAL,PHX
+1919,Shot Chart Detail,21501027,333,203458,Alex Len,1610612756,Phoenix Suns,3,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,0,20160318,LAL,PHX
+1920,Shot Chart Detail,21501051,14,203458,Alex Len,1610612756,Phoenix Suns,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,174,1,0,20160321,PHX,MEM
+1921,Shot Chart Detail,21501051,35,203458,Alex Len,1610612756,Phoenix Suns,1,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-106,151,1,1,20160321,PHX,MEM
+1922,Shot Chart Detail,21501051,50,203458,Alex Len,1610612756,Phoenix Suns,1,5,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,74,190,1,0,20160321,PHX,MEM
+1923,Shot Chart Detail,21501051,331,203458,Alex Len,1610612756,Phoenix Suns,3,5,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,0,1,0,20160321,PHX,MEM
+1924,Shot Chart Detail,21501051,494,203458,Alex Len,1610612756,Phoenix Suns,4,4,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160321,PHX,MEM
+1925,Shot Chart Detail,21501051,496,203458,Alex Len,1610612756,Phoenix Suns,4,3,53,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,31,1,0,20160321,PHX,MEM
+1926,Shot Chart Detail,21501051,514,203458,Alex Len,1610612756,Phoenix Suns,4,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,-24,1,1,20160321,PHX,MEM
+1927,Shot Chart Detail,21501051,559,203458,Alex Len,1610612756,Phoenix Suns,4,0,2,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20160321,PHX,MEM
+1928,Shot Chart Detail,21501065,25,203458,Alex Len,1610612756,Phoenix Suns,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,26,1,0,20160323,PHX,LAL
+1929,Shot Chart Detail,21501065,29,203458,Alex Len,1610612756,Phoenix Suns,1,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-43,121,1,0,20160323,PHX,LAL
+1930,Shot Chart Detail,21501065,48,203458,Alex Len,1610612756,Phoenix Suns,1,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,151,1,0,20160323,PHX,LAL
+1931,Shot Chart Detail,21501065,50,203458,Alex Len,1610612756,Phoenix Suns,1,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,144,1,0,20160323,PHX,LAL
+1932,Shot Chart Detail,21501065,134,203458,Alex Len,1610612756,Phoenix Suns,2,11,28,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,11,1,1,20160323,PHX,LAL
+1933,Shot Chart Detail,21501065,154,203458,Alex Len,1610612756,Phoenix Suns,2,8,36,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,2,1,0,20160323,PHX,LAL
+1934,Shot Chart Detail,21501065,165,203458,Alex Len,1610612756,Phoenix Suns,2,7,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160323,PHX,LAL
+1935,Shot Chart Detail,21501065,224,203458,Alex Len,1610612756,Phoenix Suns,2,3,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160323,PHX,LAL
+1936,Shot Chart Detail,21501065,272,203458,Alex Len,1610612756,Phoenix Suns,3,11,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160323,PHX,LAL
+1937,Shot Chart Detail,21501065,289,203458,Alex Len,1610612756,Phoenix Suns,3,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,154,1,0,20160323,PHX,LAL
+1938,Shot Chart Detail,21501065,458,203458,Alex Len,1610612756,Phoenix Suns,4,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,7,1,0,20160323,PHX,LAL
+1939,Shot Chart Detail,21501065,474,203458,Alex Len,1610612756,Phoenix Suns,4,5,53,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,29,1,0,20160323,PHX,LAL
+1940,Shot Chart Detail,21501065,526,203458,Alex Len,1610612756,Phoenix Suns,4,1,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160323,PHX,LAL
+1941,Shot Chart Detail,21501079,4,203458,Alex Len,1610612756,Phoenix Suns,1,11,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,154,1,0,20160325,SAC,PHX
+1942,Shot Chart Detail,21501079,15,203458,Alex Len,1610612756,Phoenix Suns,1,10,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160325,SAC,PHX
+1943,Shot Chart Detail,21501079,18,203458,Alex Len,1610612756,Phoenix Suns,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,43,1,0,20160325,SAC,PHX
+1944,Shot Chart Detail,21501079,24,203458,Alex Len,1610612756,Phoenix Suns,1,9,10,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,5,1,0,20160325,SAC,PHX
+1945,Shot Chart Detail,21501079,169,203458,Alex Len,1610612756,Phoenix Suns,2,9,14,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,3,1,0,20160325,SAC,PHX
+1946,Shot Chart Detail,21501079,174,203458,Alex Len,1610612756,Phoenix Suns,2,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,174,1,1,20160325,SAC,PHX
+1947,Shot Chart Detail,21501079,188,203458,Alex Len,1610612756,Phoenix Suns,2,7,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,65,1,1,20160325,SAC,PHX
+1948,Shot Chart Detail,21501079,216,203458,Alex Len,1610612756,Phoenix Suns,2,5,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160325,SAC,PHX
+1949,Shot Chart Detail,21501079,235,203458,Alex Len,1610612756,Phoenix Suns,2,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,190,1,0,20160325,SAC,PHX
+1950,Shot Chart Detail,21501079,264,203458,Alex Len,1610612756,Phoenix Suns,2,2,7,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,38,1,0,20160325,SAC,PHX
+1951,Shot Chart Detail,21501079,294,203458,Alex Len,1610612756,Phoenix Suns,3,11,43,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160325,SAC,PHX
+1952,Shot Chart Detail,21501079,552,203458,Alex Len,1610612756,Phoenix Suns,4,3,34,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,11,1,0,20160325,SAC,PHX
+1953,Shot Chart Detail,21501079,576,203458,Alex Len,1610612756,Phoenix Suns,4,1,42,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,41,1,0,20160325,SAC,PHX
+1954,Shot Chart Detail,21501090,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,16,1,0,20160326,PHX,BOS
+1955,Shot Chart Detail,21501090,24,203458,Alex Len,1610612756,Phoenix Suns,1,9,8,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20160326,PHX,BOS
+1956,Shot Chart Detail,21501090,52,203458,Alex Len,1610612756,Phoenix Suns,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,154,1,0,20160326,PHX,BOS
+1957,Shot Chart Detail,21501090,193,203458,Alex Len,1610612756,Phoenix Suns,2,7,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,46,1,1,20160326,PHX,BOS
+1958,Shot Chart Detail,21501090,196,203458,Alex Len,1610612756,Phoenix Suns,2,7,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160326,PHX,BOS
+1959,Shot Chart Detail,21501090,353,203458,Alex Len,1610612756,Phoenix Suns,3,5,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20160326,PHX,BOS
+1960,Shot Chart Detail,21501090,356,203458,Alex Len,1610612756,Phoenix Suns,3,5,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160326,PHX,BOS
+1961,Shot Chart Detail,21501090,476,203458,Alex Len,1610612756,Phoenix Suns,4,5,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160326,PHX,BOS
+1962,Shot Chart Detail,21501101,2,203458,Alex Len,1610612756,Phoenix Suns,1,11,48,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,13,1,0,20160328,MIN,PHX
+1963,Shot Chart Detail,21501101,13,203458,Alex Len,1610612756,Phoenix Suns,1,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,9,156,1,0,20160328,MIN,PHX
+1964,Shot Chart Detail,21501101,38,203458,Alex Len,1610612756,Phoenix Suns,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,184,121,1,0,20160328,MIN,PHX
+1965,Shot Chart Detail,21501101,50,203458,Alex Len,1610612756,Phoenix Suns,1,6,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160328,MIN,PHX
+1966,Shot Chart Detail,21501101,83,203458,Alex Len,1610612756,Phoenix Suns,1,4,13,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160328,MIN,PHX
+1967,Shot Chart Detail,21501101,262,203458,Alex Len,1610612756,Phoenix Suns,2,1,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20160328,MIN,PHX
+1968,Shot Chart Detail,21501101,283,203458,Alex Len,1610612756,Phoenix Suns,2,0,44,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,24,67,1,0,20160328,MIN,PHX
+1969,Shot Chart Detail,21501101,310,203458,Alex Len,1610612756,Phoenix Suns,3,10,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,41,1,1,20160328,MIN,PHX
+1970,Shot Chart Detail,21501101,422,203458,Alex Len,1610612756,Phoenix Suns,3,1,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160328,MIN,PHX
+1971,Shot Chart Detail,21501101,486,203458,Alex Len,1610612756,Phoenix Suns,4,8,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160328,MIN,PHX
+1972,Shot Chart Detail,21501101,517,203458,Alex Len,1610612756,Phoenix Suns,4,5,12,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160328,MIN,PHX
+1973,Shot Chart Detail,21501101,540,203458,Alex Len,1610612756,Phoenix Suns,4,2,19,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20160328,MIN,PHX
+1974,Shot Chart Detail,21501115,6,203458,Alex Len,1610612756,Phoenix Suns,1,11,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20160330,MIL,PHX
+1975,Shot Chart Detail,21501115,76,203458,Alex Len,1610612756,Phoenix Suns,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,22,139,1,1,20160330,MIL,PHX
+1976,Shot Chart Detail,21501115,84,203458,Alex Len,1610612756,Phoenix Suns,1,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,2,1,0,20160330,MIL,PHX
+1977,Shot Chart Detail,21501115,86,203458,Alex Len,1610612756,Phoenix Suns,1,3,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20160330,MIL,PHX
+1978,Shot Chart Detail,21501115,163,203458,Alex Len,1610612756,Phoenix Suns,2,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,71,139,1,1,20160330,MIL,PHX
+1979,Shot Chart Detail,21501115,173,203458,Alex Len,1610612756,Phoenix Suns,2,5,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160330,MIL,PHX
+1980,Shot Chart Detail,21501115,192,203458,Alex Len,1610612756,Phoenix Suns,2,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,37,164,1,1,20160330,MIL,PHX
+1981,Shot Chart Detail,21501115,203,203458,Alex Len,1610612756,Phoenix Suns,2,3,2,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,16,1,0,20160330,MIL,PHX
+1982,Shot Chart Detail,21501115,219,203458,Alex Len,1610612756,Phoenix Suns,2,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,56,1,0,20160330,MIL,PHX
+1983,Shot Chart Detail,21501115,336,203458,Alex Len,1610612756,Phoenix Suns,3,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,0,20160330,MIL,PHX
+1984,Shot Chart Detail,21501115,342,203458,Alex Len,1610612756,Phoenix Suns,3,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,0,20160330,MIL,PHX
+1985,Shot Chart Detail,21501115,362,203458,Alex Len,1610612756,Phoenix Suns,3,0,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160330,MIL,PHX
+1986,Shot Chart Detail,21501115,471,203458,Alex Len,1610612756,Phoenix Suns,4,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,13,1,1,20160330,MIL,PHX
+1987,Shot Chart Detail,21501137,16,203458,Alex Len,1610612756,Phoenix Suns,1,10,6,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,28,1,0,20160401,PHX,WAS
+1988,Shot Chart Detail,21501137,24,203458,Alex Len,1610612756,Phoenix Suns,1,9,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-14,80,1,0,20160401,PHX,WAS
+1989,Shot Chart Detail,21501137,141,203458,Alex Len,1610612756,Phoenix Suns,2,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,0,1,0,20160401,PHX,WAS
+1990,Shot Chart Detail,21501137,288,203458,Alex Len,1610612756,Phoenix Suns,3,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,73,160,1,0,20160401,PHX,WAS
+1991,Shot Chart Detail,21501137,314,203458,Alex Len,1610612756,Phoenix Suns,3,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,139,1,1,20160401,PHX,WAS
+1992,Shot Chart Detail,21501137,320,203458,Alex Len,1610612756,Phoenix Suns,3,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,112,159,1,0,20160401,PHX,WAS
+1993,Shot Chart Detail,21501137,325,203458,Alex Len,1610612756,Phoenix Suns,3,7,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,30,105,1,0,20160401,PHX,WAS
+1994,Shot Chart Detail,21501137,341,203458,Alex Len,1610612756,Phoenix Suns,3,5,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,0,20160401,PHX,WAS
+1995,Shot Chart Detail,21501137,432,203458,Alex Len,1610612756,Phoenix Suns,4,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,3,1,0,20160401,PHX,WAS
+1996,Shot Chart Detail,21501137,465,203458,Alex Len,1610612756,Phoenix Suns,4,6,45,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,11,1,0,20160401,PHX,WAS
+1997,Shot Chart Detail,21501149,144,203458,Alex Len,1610612756,Phoenix Suns,2,9,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,21,1,0,20160403,PHX,UTA
+1998,Shot Chart Detail,21501149,174,203458,Alex Len,1610612756,Phoenix Suns,2,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,11,1,0,20160403,PHX,UTA
+1999,Shot Chart Detail,21501149,204,203458,Alex Len,1610612756,Phoenix Suns,2,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,121,1,0,20160403,PHX,UTA
+2000,Shot Chart Detail,21501149,220,203458,Alex Len,1610612756,Phoenix Suns,2,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,0,20160403,PHX,UTA
+2001,Shot Chart Detail,21501149,228,203458,Alex Len,1610612756,Phoenix Suns,2,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,2,149,1,0,20160403,PHX,UTA
+2002,Shot Chart Detail,21501149,285,203458,Alex Len,1610612756,Phoenix Suns,3,8,41,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,70,1,0,20160403,PHX,UTA
+2003,Shot Chart Detail,21501149,299,203458,Alex Len,1610612756,Phoenix Suns,3,8,39,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,0,20160403,PHX,UTA
+2004,Shot Chart Detail,21501149,325,203458,Alex Len,1610612756,Phoenix Suns,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-81,174,1,0,20160403,PHX,UTA
+2005,Shot Chart Detail,21501157,12,203458,Alex Len,1610612756,Phoenix Suns,1,10,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,65,1,1,20160405,ATL,PHX
+2006,Shot Chart Detail,21501157,30,203458,Alex Len,1610612756,Phoenix Suns,1,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-86,174,1,0,20160405,ATL,PHX
+2007,Shot Chart Detail,21501157,83,203458,Alex Len,1610612756,Phoenix Suns,1,3,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,43,95,1,1,20160405,ATL,PHX
+2008,Shot Chart Detail,21501157,285,203458,Alex Len,1610612756,Phoenix Suns,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,65,1,0,20160405,ATL,PHX
+2009,Shot Chart Detail,21501157,290,203458,Alex Len,1610612756,Phoenix Suns,3,11,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,0,20160405,ATL,PHX
+2010,Shot Chart Detail,21501157,296,203458,Alex Len,1610612756,Phoenix Suns,3,10,49,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-17,41,1,0,20160405,ATL,PHX
+2011,Shot Chart Detail,21501157,444,203458,Alex Len,1610612756,Phoenix Suns,3,0,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160405,ATL,PHX
+2012,Shot Chart Detail,21501157,582,203458,Alex Len,1610612756,Phoenix Suns,4,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,173,61,1,0,20160405,ATL,PHX
+2013,Shot Chart Detail,21501175,31,203458,Alex Len,1610612756,Phoenix Suns,1,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-68,134,1,1,20160407,HOU,PHX
+2014,Shot Chart Detail,21501175,252,203458,Alex Len,1610612756,Phoenix Suns,2,2,53,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,52,1,0,20160407,HOU,PHX
+2015,Shot Chart Detail,21501175,254,203458,Alex Len,1610612756,Phoenix Suns,2,2,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,33,1,0,20160407,HOU,PHX
+2016,Shot Chart Detail,21501175,325,203458,Alex Len,1610612756,Phoenix Suns,3,8,40,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,0,20160407,HOU,PHX
+2017,Shot Chart Detail,21501175,451,203458,Alex Len,1610612756,Phoenix Suns,4,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-61,164,1,1,20160407,HOU,PHX
+2018,Shot Chart Detail,21501189,24,203458,Alex Len,1610612756,Phoenix Suns,1,8,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160409,NOP,PHX
+2019,Shot Chart Detail,21501189,27,203458,Alex Len,1610612756,Phoenix Suns,1,8,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-112,110,1,0,20160409,NOP,PHX
+2020,Shot Chart Detail,21501189,43,203458,Alex Len,1610612756,Phoenix Suns,1,7,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-6,1,1,20160409,NOP,PHX
+2021,Shot Chart Detail,21501189,143,203458,Alex Len,1610612756,Phoenix Suns,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,19,144,1,0,20160409,NOP,PHX
+2022,Shot Chart Detail,21501189,146,203458,Alex Len,1610612756,Phoenix Suns,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,18,1,0,20160409,NOP,PHX
+2023,Shot Chart Detail,21501189,171,203458,Alex Len,1610612756,Phoenix Suns,2,8,59,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20160409,NOP,PHX
+2024,Shot Chart Detail,21501189,250,203458,Alex Len,1610612756,Phoenix Suns,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-30,169,1,0,20160409,NOP,PHX
+2025,Shot Chart Detail,21501189,292,203458,Alex Len,1610612756,Phoenix Suns,3,8,21,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,13,1,0,20160409,NOP,PHX
+2026,Shot Chart Detail,21501189,327,203458,Alex Len,1610612756,Phoenix Suns,3,5,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,80,1,0,20160409,NOP,PHX
+2027,Shot Chart Detail,21501189,349,203458,Alex Len,1610612756,Phoenix Suns,3,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-38,164,1,1,20160409,NOP,PHX
+2028,Shot Chart Detail,21501189,356,203458,Alex Len,1610612756,Phoenix Suns,3,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-76,200,1,1,20160409,NOP,PHX
+2029,Shot Chart Detail,21501211,24,203458,Alex Len,1610612756,Phoenix Suns,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,7,1,0,20160411,PHX,SAC
+2030,Shot Chart Detail,21501211,27,203458,Alex Len,1610612756,Phoenix Suns,1,8,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,41,1,1,20160411,PHX,SAC
+2031,Shot Chart Detail,21501211,30,203458,Alex Len,1610612756,Phoenix Suns,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,58,180,1,1,20160411,PHX,SAC
+2032,Shot Chart Detail,21501211,97,203458,Alex Len,1610612756,Phoenix Suns,1,2,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,0,20160411,PHX,SAC
+2033,Shot Chart Detail,21501211,100,203458,Alex Len,1610612756,Phoenix Suns,1,2,47,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,14,1,0,20160411,PHX,SAC
+2034,Shot Chart Detail,21501211,118,203458,Alex Len,1610612756,Phoenix Suns,1,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-6,1,1,20160411,PHX,SAC
+2035,Shot Chart Detail,21501211,227,203458,Alex Len,1610612756,Phoenix Suns,2,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20160411,PHX,SAC
+2036,Shot Chart Detail,21501211,232,203458,Alex Len,1610612756,Phoenix Suns,2,3,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,55,180,1,0,20160411,PHX,SAC
+2037,Shot Chart Detail,21501211,280,203458,Alex Len,1610612756,Phoenix Suns,3,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,21,1,0,20160411,PHX,SAC
+2038,Shot Chart Detail,21501211,308,203458,Alex Len,1610612756,Phoenix Suns,3,8,18,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160411,PHX,SAC
+2039,Shot Chart Detail,21501211,337,203458,Alex Len,1610612756,Phoenix Suns,3,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20160411,PHX,SAC
+2040,Shot Chart Detail,21501211,340,203458,Alex Len,1610612756,Phoenix Suns,3,4,48,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,62,1,0,20160411,PHX,SAC
+2041,Shot Chart Detail,21501211,350,203458,Alex Len,1610612756,Phoenix Suns,3,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,68,193,1,0,20160411,PHX,SAC
+2042,Shot Chart Detail,21501211,371,203458,Alex Len,1610612756,Phoenix Suns,3,2,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,36,1,1,20160411,PHX,SAC
+2043,Shot Chart Detail,21501211,373,203458,Alex Len,1610612756,Phoenix Suns,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,33,1,0,20160411,PHX,SAC
+2044,Shot Chart Detail,21501211,416,203458,Alex Len,1610612756,Phoenix Suns,4,10,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,106,1,1,20160411,PHX,SAC
+2045,Shot Chart Detail,21501211,455,203458,Alex Len,1610612756,Phoenix Suns,4,6,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,14,1,0,20160411,PHX,SAC
+2046,Shot Chart Detail,21501211,505,203458,Alex Len,1610612756,Phoenix Suns,4,1,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,31,1,0,20160411,PHX,SAC
+2047,Shot Chart Detail,21501229,17,203458,Alex Len,1610612756,Phoenix Suns,1,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-6,208,1,0,20160413,PHX,LAC
+2048,Shot Chart Detail,21501229,98,203458,Alex Len,1610612756,Phoenix Suns,1,3,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,75,1,0,20160413,PHX,LAC
+2049,Shot Chart Detail,21501229,237,203458,Alex Len,1610612756,Phoenix Suns,2,4,34,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,0,20160413,PHX,LAC
+2050,Shot Chart Detail,21501229,245,203458,Alex Len,1610612756,Phoenix Suns,2,3,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160413,PHX,LAC
+2051,Shot Chart Detail,21501229,252,203458,Alex Len,1610612756,Phoenix Suns,2,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,28,1,0,20160413,PHX,LAC
+2052,Shot Chart Detail,21501229,262,203458,Alex Len,1610612756,Phoenix Suns,2,1,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160413,PHX,LAC
+2053,Shot Chart Detail,21501229,279,203458,Alex Len,1610612756,Phoenix Suns,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,51,1,0,20160413,PHX,LAC
+2054,Shot Chart Detail,21501229,328,203458,Alex Len,1610612756,Phoenix Suns,3,6,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160413,PHX,LAC
+2055,Shot Chart Detail,21501229,355,203458,Alex Len,1610612756,Phoenix Suns,3,4,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20160413,PHX,LAC
+2056,Shot Chart Detail,21501229,379,203458,Alex Len,1610612756,Phoenix Suns,3,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-25,183,1,0,20160413,PHX,LAC
